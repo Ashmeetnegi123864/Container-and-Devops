@@ -1,3 +1,5 @@
+# Name: Ashmeet Negi 
+# Course: Containerization and DevOps Lab 
 # 🐳 Lab 2 – Docker Installation, Configuration, and Running an Image
 
 ## 📖 Experiment 2
