@@ -1,3 +1,6 @@
+
+# Name: Ashmeet Negi 
+# Course: Containerization and DevOps Lab 
 # Lab 1: Virtual Machines vs Containers - A Comparative Study
 
 ## Software and Hardware Requirements
