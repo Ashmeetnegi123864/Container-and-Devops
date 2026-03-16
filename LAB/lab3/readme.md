@@ -1,4 +1,6 @@
 
+# Name: Ashmeet Negi 
+# Course: Containerization and DevOps Lab  
 # 🐳 Lab 3 – Deploy NGINX Using Different Base Images & Compare Image Layers
 
 ## 📖 Experiment 3
