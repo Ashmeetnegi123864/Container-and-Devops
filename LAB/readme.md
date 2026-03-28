@@ -1,48 +1,59 @@
-# Name: Ashmeet Negi 
-# Course: Containerization and DevOps Lab 
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif;">Ashmeet Negi</h1>
+<h3 align="center" style="font-family: 'Segoe UI', sans-serif;">
+Containerization and DevOps Lab
+</h3>
 
-## 🚀 Labs Overview
+<hr>
 
-### 🔹 Lab 1 – Docker Installation & Basic Commands
-📁 [Open Lab 1](./lab1)
+<h2 style="font-family: 'Trebuchet MS', sans-serif;">🚀 Labs Overview</h2>
 
-- Install Docker
-- Verify Docker setup
-- Run first container
-- Basic Docker commands
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 1 – Docker Installation & Basic Commands</h3>
 
----
+📁 <a href="./lab1">Open Lab 1</a>
 
-### 🔹 Lab 2 – Working with Docker Images & Containers
-📁 [Open Lab 2](./lab2)
-
-- Pull image from Docker Hub
-- Run container with port mapping
-- Container lifecycle management
-- Start / Stop / Remove containers
+<ul style="font-family: 'Verdana', sans-serif;">
+<li>Install Docker</li>
+<li>Verify Docker setup</li>
+<li>Run first container</li>
+<li>Basic Docker commands</li>
+</ul>
 
 ---
 
-### 🔹 Lab 3 – Custom Docker Image (NGINX with Ubuntu)
-📁 [Open Lab 3](./lab3)
- 
-- Create Dockerfile
-- Build custom image
-- Run NGINX container
-- Access from browser
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 2 – Working with Docker Images & Containers</h3>
+
+📁 <a href="./lab2">Open Lab 2</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+<li>Pull image from Docker Hub</li>
+<li>Run container with port mapping</li>
+<li>Container lifecycle management</li>
+<li>Start / Stop / Remove containers</li>
+</ul>
 
 ---
 
-### 🔹 Lab 4 - Docker Essentials: Dockerfile, .dockerignore, Tagging & Publishing
-📁 [Open Lab 4](./lab4)
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 3 – Custom Docker Image (NGINX with Ubuntu)</h3>
 
-- Creqte Dockerfile
-- Create .dockerignore
-- Build Docker Image & tag it
-- Push image to dockerhub
-- Pull image from dockerhub
+📁 <a href="./lab3">Open Lab 3</a>
 
+<ul style="font-family: 'Verdana', sans-serif;">
+<li>Create Dockerfile</li>
+<li>Build custom image</li>
+<li>Run NGINX container</li>
+<li>Access from browser</li>
+</ul>
 
+---
 
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 4 – Docker Essentials</h3>
 
+📁 <a href="./lab4">Open Lab 4</a>
 
+<ul style="font-family: 'Verdana', sans-serif;">
+<li>Create Dockerfile</li>
+<li>Create .dockerignore</li>
+<li>Build & tag Docker image</li>
+<li>Push image to Docker Hub</li>
+<li>Pull image from Docker Hub</li>
+</ul>
