@@ -60,6 +60,15 @@ Containerization and DevOps Lab
 
 ---
 
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 5 –  Docker - Volumes, Environment Variables, Monitoring & Networks</h3>
+
+📁 <a href="./lab5">Open Lab 5</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+</ul>
+
+---
+
 <h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 6 –  Docker Run vs Docker Compose</h3>
 
 📁 <a href="./lab6">Open Lab 6</a>
