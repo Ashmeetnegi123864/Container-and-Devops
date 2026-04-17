@@ -62,7 +62,7 @@ Containerization and DevOps Lab
 
 <h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 6 –  Docker Run vs Docker Compose</h3>
 
-📁 <a href="./lab4">Open Lab 6</a>
+📁 <a href="./lab6">Open Lab 6</a>
 
 <ul style="font-family: 'Verdana', sans-serif;">
 </ul>
