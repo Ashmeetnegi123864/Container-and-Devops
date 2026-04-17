@@ -1,4 +1,4 @@
-opwf# **Experiment 5: Docker - Volumes, Environment Variables, Monitoring & Networks**
+# **Experiment 5: Docker - Volumes, Environment Variables, Monitoring & Networks**
 
 ## **Part 1: Docker Volumes - Persistent Data Storage**
 
