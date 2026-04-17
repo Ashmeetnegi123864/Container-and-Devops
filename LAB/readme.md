@@ -66,3 +66,12 @@ Containerization and DevOps Lab
 
 <ul style="font-family: 'Verdana', sans-serif;">
 </ul>
+
+---
+
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 7 –  CI/CD Pipeline using Jenkins, GitHub and Docker Hub</h3>
+
+📁 <a href="./lab7">Open Lab 7</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+</ul>
