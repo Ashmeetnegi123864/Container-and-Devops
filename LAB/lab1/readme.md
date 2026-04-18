@@ -75,9 +75,6 @@ Reboot the system after installation.
 ```powershell
 wsl --install -d Ubuntu
 ```
-[INSERT SCREENSHOT: Ubuntu installation on WSL]
----
-
 ### **Step 3: Install Docker Engine inside WSL**
 
 ```bash
@@ -94,12 +91,6 @@ Docker Installation in WSL
 
 Docker Version Check
 
-
-[INSERT SCREENSHOT: docker --version output]
-
-
----
-
 ### **Step 4: Run Ubuntu Container with Nginx**
 
 ```bash
@@ -109,13 +100,8 @@ docker run -d -p 8080:80 --name nginx-container nginx
 ```
 Docker Pull and Run
 
-[INSERT SCREENSHOT: Docker pull nginx and docker run command]
 
 Container Running Status
-
-[INSERT SCREENSHOT: docker ps showing nginx-container running]
-
----
 
 ### **Step 5: Verify Nginx in Container**
 
@@ -141,11 +127,9 @@ systemd-analyze
 ```
 VM Resource Usage
 
-[INSERT SCREENSHOT: free -h output in VM]
 
 VM Boot Time Analysis
 
-[INSERT SCREENSHOT: systemd-analyze output]
 
 ---
 
@@ -157,11 +141,9 @@ free -h
 ```
 Container Resource Usage
 
-[INSERT SCREENSHOT: docker stats output]
 
 Host System Resource Usage
 
-[INSERT SCREENSHOT: free -h output on host with container running]
 
 ---
 
