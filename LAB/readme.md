@@ -84,3 +84,39 @@ Containerization and DevOps Lab
 
 <ul style="font-family: 'Verdana', sans-serif;">
 </ul>
+
+---
+
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 9 –  Ansible Automation with Docker</h3>
+
+📁 <a href="./lab9">Open Lab 9</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+</ul>
+
+---
+
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 10 –  SonarQube: Continuous Code Quality Inspection</h3>
+
+📁 <a href="./lab10">Open Lab 10</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+</ul>
+
+---
+
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 11 –  Orchestration using Docker Compose & Docker Swarm</h3>
+
+📁 <a href="./lab11">Open Lab 11</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+</ul>
+
+---
+
+<h3 style="font-family: 'Verdana', sans-serif;">🔹 Lab 12 –  Container Orchestration using Kubernetes</h3>
+
+📁 <a href="./lab12">Open Lab 12</a>
+
+<ul style="font-family: 'Verdana', sans-serif;">
+</ul>
