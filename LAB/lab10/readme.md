@@ -386,11 +386,11 @@ Deploy to server  Fix issues first
 ## 📸 Screenshots
 
 ![Docker Run](screenshot.png)
-![Docker Run](screenshot-1.png)
-![Docker Run](screenshot-2.png)
-![Docker Run](screenshot-3.png)
-![Docker Run](screenshot-4.png)
-![Docker Run](screenshot-5.png)
+![Docker Run](screenshot1.png)
+![Docker Run](screenshot2.png)
+![Docker Run](screenshot3.png)
+![Docker Run](screenshot4.png)
+![Docker Run](screenshot5.png)
 ---
 
 ## 📚 Key Concepts Covered
